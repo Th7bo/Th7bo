@@ -14,7 +14,7 @@
 
 - 🌱 I’m also learning more about **Python and Java**
 
-![Metrics](https://metrics.lecoq.io/ThiboIsWeird?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/ThiboIsWeird?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)(thibofranssen.tk)
 
  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThiboIsWeird&theme=monokai)]
  
