@@ -28,4 +28,4 @@
  
  
 ![Th7bo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th7bo&count_private=true&show_icons=true&theme=monokai&include_all_commits=true)
-![Th7bo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Th7bo&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/wakatime?username=Th7bo&theme=dark)
+![Th7bo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Th7bo&theme=dark)
