@@ -27,5 +27,6 @@
  ![Th7bo's Streak](http://github-readme-streak-stats.herokuapp.com?user=Th7bo&theme=cobalt)
  
  
-![Th7bo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th7bo&show_icons=true&theme=cobalt)
+
 ![Th7bo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Th7bo&theme=cobalt)
+![Th7bo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th7bo&show_icons=true&theme=cobalt)
