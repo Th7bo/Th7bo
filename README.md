@@ -24,9 +24,10 @@
 
 ![Metrics](https://metrics.lecoq.io/Th7bo?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
- ![Th7bo's Streak](http://github-readme-streak-stats.herokuapp.com?user=Th7bo&theme=cobalt)
+
  
  
 
 ![Th7bo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Th7bo&theme=cobalt)
 ![Th7bo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th7bo&show_icons=true&theme=cobalt)
+![Th7bo's Streak](http://github-readme-streak-stats.herokuapp.com?user=Th7bo&theme=cobalt)
