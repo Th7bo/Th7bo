@@ -32,5 +32,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Th7bo&show_icons=true&theme=cobalt" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Th7bo&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Th7bo&theme=cobalt&show_icons=true" />
 </a>
