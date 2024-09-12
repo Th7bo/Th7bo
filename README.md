@@ -1,6 +1,5 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="" alt="cover" />
 </div>
 
 <h1>Welcome to my profile!
