@@ -3,10 +3,10 @@
 <img width="100%" height = "250px" src="" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1>Welcome to my profile!
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Th7bo.Th7bo)
+![visitors](![](https://api.visitorbadge.io/api/VisitorHit?user=th7bo&repo=th7bo&countColor=%237B1E7A))
 
 </p>
 <div size='20px'> Hi! My name is Th7bo. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -14,18 +14,11 @@
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-
-
 - 🔭 I’m currently working on my own prison server in Kotlin
 
 - 🌱 I’m currently learning Data Science, AWS, Data Engineering, IT management and more in my first year of software development 
 
-- 👯 I’m looking to collaborate on  
-
-- 💬 Talk to me about Kotlin, Java, freelancing 
-
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<h2> Skills </h2>
 <a href= https://github.com/Th7bo?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/Th7bo?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
 <a href= https://github.com/Th7bo?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
@@ -43,7 +36,7 @@
 <a href= https://github.com/Th7bo?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
+<h2> Connect with me </h2>
 <a href = 'https://th7bo.com'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/Th7bo'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
