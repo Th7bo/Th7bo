@@ -5,7 +5,7 @@
 <h1>Welcome to my profile!
 <p align='center'>
 
-![visitors](![](https://api.visitorbadge.io/api/VisitorHit?user=th7bo&repo=th7bo&countColor=%237B1E7A))
+![visitors](https://api.visitorbadge.io/api/VisitorHit?user=th7bo&repo=th7bo&countColor=%237B1E7A)
 
 </p>
 <div size='20px'> Hi! My name is Th7bo. Thank You for taking the time to view my GitHub Profile :smile: 
