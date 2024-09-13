@@ -1,13 +1,4 @@
-
-<div align="center">
-</div>
-
-<h1>Welcome to my profile!
-<p align='center'>
-
-</p>
-<div size='20px'> Hi! My name is Th7bo. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+<div size='20px'> Hi! My name is Th7bo. </div>
 
 <h2> About Me </h2>
 
