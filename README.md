@@ -2,5 +2,5 @@
 
 <div align="center">
   <br>
-  <a href="https://th7bo.dev"><img align="center" src="https://readme.th7bo.dev/"/></a> <br>
+  <a href="https://th7bo.com"><img align="center" src="https://readme.th7bo.dev/"/></a> <br>
 </div>
