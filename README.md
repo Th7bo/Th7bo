@@ -2,6 +2,7 @@
 
 <div align="center">
   <a href="https://th7bo.dev"><img src="https://komarev.com/ghpvc/?username=Th7bo" alt="Th7bo Profile View Counter"></a>
+  <br>
   <a href="https://lanyard.cnrad.dev/api/350275136206667777"><img src="https://lanyard.cnrad.dev/api/350275136206667777" /></a>
   <br>
   <a href="https://th7bo.dev"><img align="center" src="https://manager.th7bo.dev/readme"/></a> <br>
