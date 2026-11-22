@@ -1,10 +1,9 @@
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" /><img src="assets/header-light.svg" alt="Thibo — tools, Minecraft mods and web apps" width="100%" /></picture>
 
-<div align="center">
-  <p>Hi I'm Thibo Franssen!</p>
-  <a href="https://th7bo.dev"><img src="https://komarev.com/ghpvc/?username=Th7bo" alt="Th7bo Profile View Counter"></a>
-  <br>
-  <a href="https://lanyard.cnrad.dev/api/350275136206667777"><img src="https://lanyard.cnrad.dev/api/350275136206667777" /></a>
-  <br>
-  <a href="https://th7bo.dev"><img align="center" src="https://manager.th7bo.dev/readme"/></a> <br>
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/th7bo/th7bo/output/languages-dark.svg" /><img src="https://raw.githubusercontent.com/th7bo/th7bo/output/languages-light.svg" alt="Top languages" width="100%" /></picture>
+
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=th7bo&hide_border=true&hide_title=true&hide_rank=true&show_icons=true&bg_color=00000000&text_color=9198a1&icon_color=ffb35c&card_width=420" /><img src="https://github-readme-stats.vercel.app/api?username=th7bo&hide_border=true&hide_title=true&hide_rank=true&show_icons=true&bg_color=00000000&text_color=59636e&icon_color=c2570c&card_width=420" alt="GitHub stats" height="150" /></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=th7bo&hide_border=true&background=00000000&ring=ffb35c&fire=ffb35c&currStreakNum=f0f6fc&currStreakLabel=ffb35c&sideNums=f0f6fc&sideLabels=9198a1&dates=9198a1&stroke=3d444d" /><img src="https://streak-stats.demolab.com/?user=th7bo&hide_border=true&background=00000000&ring=c2570c&fire=c2570c&currStreakNum=1f2328&currStreakLabel=c2570c&sideNums=1f2328&sideLabels=59636e&dates=59636e&stroke=d1d9e0" alt="Contribution streak" height="150" /></picture></p>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=th7bo&bg_color=00000000&color=9198a1&line=ffb35c&point=f0f6fc&area=true&area_color=ffb35c&hide_border=true&custom_title=%20&height=260" /><img src="https://github-readme-activity-graph.vercel.app/graph?username=th7bo&bg_color=00000000&color=59636e&line=c2570c&point=1f2328&area=true&area_color=c2570c&hide_border=true&custom_title=%20&height=260" alt="Contribution activity" width="100%" /></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/th7bo/th7bo/output/snake-dark.svg" /><img src="https://raw.githubusercontent.com/th7bo/th7bo/output/snake-light.svg" alt="Contribution snake" width="100%" /></picture>
